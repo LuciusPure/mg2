@@ -3087,7 +3087,7 @@ GameObject:
   - component: {fileID: 165106202}
   - component: {fileID: 165106201}
   - component: {fileID: 165106200}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Prop (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3226,8 +3226,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: -1869315837
-  m_SortingLayer: 1
+  m_SortingLayerID: -44025399
+  m_SortingLayer: 2
   m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300034, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
@@ -3250,7 +3250,7 @@ Transform:
   m_GameObject: {fileID: 165106199}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.73, y: 0.67, z: 0}
+  m_LocalPosition: {x: -6.53, y: 5.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -18719,7 +18719,7 @@ GameObject:
   - component: {fileID: 1806515920}
   - component: {fileID: 1806515919}
   - component: {fileID: 1806515918}
-  m_Layer: 20
+  m_Layer: 22
   m_Name: Prop (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18858,8 +18858,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: -1869315837
-  m_SortingLayer: 1
+  m_SortingLayerID: -105541197
+  m_SortingLayer: 3
   m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300034, guid: 29c9cded5e558164aaf8c9bf08aa1510, type: 3}
@@ -18882,7 +18882,7 @@ Transform:
   m_GameObject: {fileID: 1806515917}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.07, y: 13.49, z: 0}
+  m_LocalPosition: {x: -2.9, y: 12.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
